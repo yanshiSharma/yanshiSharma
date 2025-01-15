@@ -2,7 +2,6 @@
 <!----- 👀 I’m interested in----> 
 - 🌱 I’m currently pursuading Bachelor's in Computer Science with Specialisation in AI and Robotics
 -    I'm interested in Data Science, Data Analytics mainly.
--    I also enjoy frontend web development.
 - 💞️ I’m looking to collaborate on interesting projects and group work on latest technologies.
 -    I love skating, swimming and dancing.
 <!----- - 📫 How to reach me ... ----->
